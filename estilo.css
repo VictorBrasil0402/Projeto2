@@ -1,0 +1,95 @@
+
+*{
+    text-align: center;
+}
+
+
+h2{
+
+    text-align: center;
+    margin-top: 100px;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    text-decoration: underline solid green;
+}
+
+
+.pratos{
+
+    text-align: left;
+    margin-left: 355px;
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+
+}
+
+
+.bebidas{
+
+    text-align: left;
+    padding-top: 400px;
+    margin-left: 50px;
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+
+}
+
+
+.menu-container{
+
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: auto;
+
+}
+
+
+.itens-pratos{
+
+    float: right;
+    padding: 50px;
+    
+}
+
+
+.itens-bebidas{
+
+    float: right;
+    padding: 50px;
+    margin-right: 20px;
+    
+}
+
+
+img{
+    
+    border-radius: 50%;
+    max-width: 110px;
+    padding: 3px;
+    margin-right: 15px;
+}
+
+
+h5{
+
+    font-family: "Popins", sans-serif;
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+
+p{
+
+    font-family: "Popins", sans-serif;
+    text-align: justify;
+
+}
+
+
+span{
+
+    color: red;
+    font-style: italic;
+
+}
